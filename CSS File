@@ -1,0 +1,30 @@
+<!DocType html>
+<html lang="en">
+<head>
+<meta Charset="utf-8">
+<title>DMS 321
+</title>
+<body>
+body{background-color:gold;
+}
+
+<style>{font-family:ariel;font size:60px;text align:center;
+.Highlight:yellow;
+}
+<h1> This is the beginning</h1>
+<p>
+<span class="Highlight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lectus nisi, vulputate ornare tincidunt at, egestas vitae magna. 
+Morbi tincidunt sapien eget rutrum euismod. Donec mattis a leo nec pharetra. In eleifend, erat ut blandit tempor, odio mi semper ligula, sit amet dapibus nulla ipsum ac tellus. 
+Suspendisse eu elit leo. Sed auctor ante sit amet lacus feugiat eleifend. Mauris vel condimentum turpis, ut condimentum metus. Cras sed lorem dolor.
+</body>
+<h2> This is my list</h2>
+<style>
+#li{ float:right
+     padding:10px
+     border-style:dotted;
+}
+<ul>
+<li>Big</li>
+<li>Meaty</li>
+<li>Claws</li>
+</ul>
