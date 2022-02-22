@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Get Going!!!</title>
+</head>
+
+<body>
+<p>
+    You somehow make it in time for your exam, but you flunked it! Your professor offers to give you a make-up exam. If you pass, you get your degree and graduate college. If you fail, you flunk out of college.
+</p>
+</body>
+<body>
+<p>
+    What will you do?
+    <p>
+    <ul>
+    <li>Will you:
+    <dl>
+    <dt> <a href="Page 7.html">Study</a>
+    <dt> <a href="Page 10.html">Nothing</a>
+    </dl>
+    </p>
+    </p>
+    </body>
+</html>

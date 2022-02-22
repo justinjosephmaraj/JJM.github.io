@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Study Time!</title>
+</head>
+
+<body>
+<p>
+    Finals week is coming up! You've got to study for your chem final or you'll fail the semester, but your friend calls you with news that your favorite music artist is in town tonight doing a show and they got 2 tickets.
+</p>
+</body>
+<body>
+<p>
+    What will you do?
+    <p>
+    <ul>
+    <li>Will you:
+    <dl>
+    <dt> <a href="Page 7.html">Study more</a>
+    <dt> <a href="Page 9.html">Go to concert</a>
+    </dl>
+    </p>
+    </p>
+    </body>
+</html>

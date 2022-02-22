@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Drink Some Tea!</title>
+</head>
+
+<body>
+<p>
+    You just had some chamomile tea! This helps you digest faster. Now you are bored.
+</p>
+</body>
+<body>
+<p>
+    What will you do?
+    <p>
+    <ul>
+    <li>Will you:
+    <dl>
+    <dt> <a href="Page 3.html">Nap</a>
+    <dt> <a href="Page 10.html">Nothing</a>
+    </dl>
+    </p>
+    </p>
+    </body>
+</html>

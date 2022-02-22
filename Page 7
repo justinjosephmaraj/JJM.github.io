@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Study Grind</title>
+</head>
+
+<body>
+<p>
+    You choose not to sacrafice your grades. You stay up late to make sure you have everything memorized for the exam. But you wake up late and you have 10 minutes to get to the lecture hall for the exam.
+</p>
+</body>
+<body>
+<p>
+    What will you do?
+    <p>
+    <ul>
+    <li>Will you:
+    <dl>
+    <dt> <a href="Page 8.html">RUN!!!</a>
+    <dt> <a href="Page 10.html">Nothing</a>
+    </dl>
+    </p>
+    </p>
+    </body>
+</html>

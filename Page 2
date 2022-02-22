@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Workout Phase</title>
+</head>
+
+<body>
+<p>
+    Hello, again! You've just completed an hour and a half workout. You are tired. 
+</p>
+</body>
+<body>
+<p>
+    What will you choose?
+    <p>
+    <ul>
+    <li>Will you:
+    <dl>
+    <dt> <a href="Page 3.html">Nap</a>
+    <dt> <a href="Page 4.html">Eat</a>
+    </dl>
+    </p>
+    </p>
+    </body>
+</html>

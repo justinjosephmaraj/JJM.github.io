@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Your Big Adventure</title>
+</head>
+
+<body>
+<p>
+    Hello, world! This adventure is all about you.
+</p>
+</body>
+<body>
+<p>
+    What will you choose
+    <p>
+    <ul>
+    <li>Will you:
+    <dl>
+    <dt> <a href="Page 2.html">Workout</a>
+    <dt> <a href="Page 3.html">Nap</a>
+    </dl>
+    </p>
+    </p>
+    </body>
+</html>

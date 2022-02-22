@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>FOOD FOOD FOOD!!!</title>
+</head>
+
+<body>
+<p>
+    Lunch time! You went to an all you can eat buffet. You are full.
+</p>
+</body>
+<body>
+<p>
+    What will you do?
+    <p>
+    <ul>
+    <li>Will you:
+    <dl>
+    <dt> <a href="Page 5.html">Drink tea</a>
+    <dt> <a href="Page 6.html">Study</a>
+    </dl>
+    </p>
+    </p>
+    </body>
+</html>

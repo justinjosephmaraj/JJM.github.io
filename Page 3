@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Nap Time!!</title>
+</head>
+
+<body>
+<p>
+    Wakey Wakey, time to get up from your nap! You are full of energy.
+</p>
+</body>
+<body>
+<p>
+    What will you do?
+    <p>
+    <ul>
+    <li>Will you:
+    <dl>
+    <dt> <a href="Page 2.html">Workout</a>
+    <dt> <a href="Page 6.html">Study</a>
+    </dl>
+    </p>
+    </p>
+    </body>
+</html>
